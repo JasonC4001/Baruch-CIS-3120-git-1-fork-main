@@ -21,6 +21,7 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Entries:
 <!-- Students: Add your entries below this line! -->
+**Sael Perez** (GitHub: Sperez03-23): My favorite movie is Spider-Man: Across the Spider-Verse
 
 -**Caroline Law** (GitHub: callaw777). My favorite movie is Wake Up Dead Man: A Knives Out Mystery.
 **Emma Parvar** (GitHub: emmaparvar): My favorite movie is Iron Man.

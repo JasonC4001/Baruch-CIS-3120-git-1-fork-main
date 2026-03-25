@@ -22,6 +22,7 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Entries: 
 <!-- Students: Add your entries below this line! -->
+**Octave Ekewou** (GitHub: Octaveekewou): My favorite movie  is John Wick!
 - **Sonica Rai** (GitHub: SonikaRai258): My favorite movie is Bridgerton
 
 

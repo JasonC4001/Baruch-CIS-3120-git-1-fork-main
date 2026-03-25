@@ -22,6 +22,7 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Entries: 
 <!-- Students: Add your entries below this line! -->
+- **Bacilio Lema** (GitHub: bacilioo): My favorite move is Sinners!
 
 - **Ibrahim Kidwai** (GitHub: ibrahkidwai-cyber): My favorite movie is Spider-Man 3
 
